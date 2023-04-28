@@ -1,0 +1,62 @@
+export const colors = {
+    PRIMARY_ALICE_BLUE: "#F6F8FC",
+  
+    ADDITIONAL_PERSIAN_INDIGO: "#3C096C",
+    ADDITIONAL_MINSK: "#2D2350",
+  
+    PRIMARY_HAN_PURPLE: "#6B38FB",
+    SECONDARY_HAN_PURPLE: "#9B9EFF",
+    TERTIARY_HAN_PURPLE: "#E2E6FF",
+  
+    PRIMARY_LICORICE: "#979797",
+    ADDITIONAL_DEEP_LILAC: "#9B59B6",
+    ADDITIONAL_EERIE_BLACK: "#979797",
+  
+    PRIMARY_VIOLETS_ARE_BLUE: "#9069FF",
+  
+    // palette colors
+    PALETTE_0NE_LIGHT: "#424B5A",
+    PALETTE_0NE_DARK: "#F9F9FB",
+  
+    PALETTE_TWO_LIGHT: "#80859B",
+    PALETTE_TWO_DARK: "#9B59B6",
+  
+    PALETTE_THREE_LIGHT_PRIMARY: "#F2F2FF",
+    PALETTE_THREE_LIGHT_SECONDARY: "#F9F9FB",
+  
+    PALETTE_THREE_DARK_PRIMARY: "#EEE1FF",
+    PALETTE_THREE_DARK_SECONDARY: "#E0DEFB",
+  
+    PALETTE_FOUR_LIGHT: "#CCD0D9",
+    PALETTE_FOUR_DARK: "#9F9BDD",
+  
+    // light mode shades for animations such as hovers, etc.
+    HAN_PURPLE_OPACITY_100_PER_LIGHT: "#6B38FB",
+    HAN_PURPLE_OPACITY_20_PER_LIGHT: "#6B38FB33",
+    HAN_PURPLE_OPACITY_05_PER_LIGHT: "#6B38FB0D",
+  
+    // dark mode shades for animations such as hovers, etc.
+    HAN_PURPLE_OPACITY_100_PER_DARK: "#9069FF",
+    HAN_PURPLE_OPACITY_20_PER_DARK: "#9069FF33",
+    HAN_PURPLE_OPACITY_05_PER_DARK: "#9069FF0D",
+  
+    // light mode shades for, shadows for buttons, navigation elements etc.
+    WATERLOO_OPACITY_100_PER_LIGHT: "#80859B",
+    WATERLOO_OPACITY_20_PER_LIGHT: "#80859B33",
+    WATERLOO_OPACITY_05_PER_LIGHT: "#80859B0D",
+  
+    // dark mode shades for, shadows for buttons, navigation elements etc.
+    WATERLOO_OPACITY_100_PER_DARK: "#1B1926",
+    WATERLOO_OPACITY_20_PER_DARK: "#1B192633",
+    WATERLOO_OPACITY_05_PER_DARK: "#1B19260D",
+  
+    // functional colors
+    SALMON_PINK: "#FF7B7B",
+    BRIGHT_ORANGE: "#FFAC3E",
+    AMARANTH: "#FF375F",
+    AMAZONITE: "#44D7B6",
+  
+    BLUE_MAGENTA_DARK: "#100F18",
+    BLUE_MAGENTA_LIGHT: "#F6F8FC",
+  };
+  
